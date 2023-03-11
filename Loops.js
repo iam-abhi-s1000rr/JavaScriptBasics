@@ -30,3 +30,12 @@ for(let j=1;j<=9;j++){
   
   console.log(`Also we can write hello is ${j} time`)
 }
+
+let alien={name:'Human',
+            planet:'earth',
+            animal:{name1:'lion',
+                    type:'carni',
+                    terrian:'land'
+          }          
+}
+console.log(alien)
